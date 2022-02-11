@@ -1,2 +1,2 @@
 # opendot
-dot picture
+free dot picture
